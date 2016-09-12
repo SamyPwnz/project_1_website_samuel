@@ -1,6 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
 
-body{ background-color: black
+body{ background-color: black;
+
   ;}
 
 h1{
@@ -12,3 +13,7 @@ p{
   font-family: 'Baloo Tamma', cursive;
   color: yellow;
 }
+h2 {
+  color: yellow;
+ font-family: 'Baloo Tamma', cursive;
+ }
